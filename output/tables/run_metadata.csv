@@ -1,0 +1,2 @@
+min_ratings,k,seed,n_init,covariance_type,k_tune_range,silhouette_max_samples,n_rating_rows_input,n_invalid_or_dropped_ratings,n_movies_with_any_valid_rating,n_movies_retained,n_movies_excluded,unmatched_titles,feature_row_sum_min,feature_row_sum_max,n_feature_dims
+20,7,42,3,diag,"[2, 8]",1500,100836,0,9724,1297,8427,0,0.9999999999999998,1.0000000000000002,10

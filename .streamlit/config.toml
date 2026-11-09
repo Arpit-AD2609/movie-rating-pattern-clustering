@@ -1,0 +1,52 @@
+[theme]
+base = "dark"
+primaryColor = "#C7F36B"
+backgroundColor = "#101114"
+secondaryBackgroundColor = "#191B20"
+textColor = "#F3F0E8"
+linkColor = "#C7F36B"
+borderColor = "#2C3038"
+codeBackgroundColor = "#22252B"
+codeTextColor = "#C7F36B"
+redColor = "#E07A6A"
+orangeColor = "#E8A87C"
+yellowColor = "#E6D37A"
+greenColor = "#C7F36B"
+blueColor = "#8AA9FF"
+violetColor = "#C792EA"
+grayColor = "#A5A8B0"
+dataframeBorderColor = "#2C3038"
+dataframeHeaderBackgroundColor = "#22252B"
+dataframeHeaderTextColor = "#F3F0E8"
+chartCategoricalColors = ["#C7F36B", "#8AA9FF", "#E8A87C", "#6FD6FF", "#C792EA", "#E6D37A", "#7BD389", "#FFB86C"]
+chartSequentialColors = ["#191B20", "#2A3320", "#3E4A24", "#55662A", "#6E8233", "#8BA43D", "#A8C44C", "#BDD95A", "#C7F36B", "#E8F7B0"]
+chartDivergingColors = ["#E07A6A", "#E8A87C", "#E6D37A", "#C7C49A", "#A5A8B0", "#8AA9AA", "#6FD6C8", "#6FD6FF", "#8AA9FF", "#C792EA"]
+font = "Source Sans 3:https://fonts.googleapis.com/css2?family=Source+Sans+3:ital,wght@0,400;0,500;0,600;0,700;1,400&display=swap"
+headingFont = "Fraunces:https://fonts.googleapis.com/css2?family=Fraunces:opsz,wght@9..144,500;9..144,600;9..144,700&display=swap"
+codeFont = "'IBM Plex Mono':https://fonts.googleapis.com/css2?family=IBM+Plex+Mono:wght@400;500&display=swap"
+baseFontSize = 16
+baseFontWeight = 400
+baseRadius = "0.35rem"
+buttonRadius = "0.35rem"
+showWidgetBorder = true
+showSidebarBorder = true
+linkUnderline = false
+headingFontSizes = ["2.35rem", "1.55rem", "1.2rem", "1.05rem", "0.95rem", "0.85rem"]
+headingFontWeights = [600, 600, 600, 500, 500, 500]
+metricValueFontSize = "1.55rem"
+metricValueFontWeight = 600
+paddingTop = "1.15rem"
+paddingBottom = "2.5rem"
+
+[theme.sidebar]
+backgroundColor = "#191B20"
+secondaryBackgroundColor = "#22252B"
+textColor = "#F3F0E8"
+primaryColor = "#C7F36B"
+borderColor = "#2C3038"
+codeBackgroundColor = "#22252B"
+paddingTop = "0.65rem"
+paddingBottom = "1.25rem"
+
+[browser]
+gatherUsageStats = false
